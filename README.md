@@ -8,8 +8,8 @@
 
 ### 🏈 Apuestas Deportivas
 - **Predicción de resultados** de partidos de fútbol
-- **Configuración personalizada** de cuotas y condiciones
-- **Seguimiento en tiempo real** de apuestas activas
+- **Configuración personalizada** del bote común
+- **Resultado automático** al finalizar el partido
 
 ### 🎯 Apuestas Personalizadas
 - **Crea tus propias apuestas** sobre cualquier tema
@@ -22,7 +22,7 @@
 - **Perfiles de usuarios** con historial de apuestas
 
 ### 💰 Gestión de Saldos
-- **Sistema de puntos virtuales** o dinero real (configurable)
+- **Sistema de puntos virtuales** o dinero real (en proceso)
 - **Historial transacciones** completo
 - **Estadísticas personales** y rankings
 
@@ -92,22 +92,17 @@ npm start
 
 ## 📖 Uso de la Aplicación
 - **Registro/Login:** Crea tu cuenta o inicia sesión.  
-- **Crear Grupo:** Establece tu círculo de apuestas.  
-- **Invitar Amigos:** Comparte el código de invitación.  
-- **Crear Apuestas:** Define eventos y condiciones.  
+- **Crear Playground:** Establece tu círculo de apuestas.  
+- **Invitar Amigos:** Busca a tus amigos para incluirlos en los playgrounds.  
+- **Crear Apuestas:** Selecciona el partido o inventa tu propia apuesta.  
 - **Gestionar Resultados:** Actualiza estados y ganadores.  
 
 ---
 
 ## 👨‍💻 Autor
-- Pablo Ricote - [GitHub](https://github.com/wPabloR) - [LinkedIn](https://www.linkedin.com/in/pabloricote/)
-
----
-
-## 🙏 Agradecimientos
-- Inspirado por la necesidad de tener apuestas amistosas entre grupos.  
-- Gracias a la comunidad de Flask y React por su excelente documentación.  
-- A todos los beta testers que ayudaron a mejorar la aplicación.
+- Pablo Ricote - [GitHub](https://github.com/wPabloR) - [LinkedIn](www.linkedin.com/in/pablo-ricote-555950284)
+- Miguel Area
+- Stephy Mosquera
 
 ---
 
